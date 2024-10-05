@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Terraform-up-running-2024
+# Terraform-up-running-Book-2024
 chapter-1
 =======
 # Terraform-up-running
